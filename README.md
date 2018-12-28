@@ -2,7 +2,7 @@
 This is a Single Cycle MIPS implementation
 
 ### Logical Instructions
-![img1]()
+![img1](https://github.com/gsoosk/MIPS-SingleCycle/blob/master/img/1.png)
 
 | Instruction Operation    |                                | fn  |
 |--------------------------|--------------------------------|-----|
@@ -16,10 +16,10 @@ This is a Single Cycle MIPS implementation
 | MASK                     | Bitwise logical mask (and-not) | 111 |
 
 ### Immediate Logical Instructions
-![img2]()
+![img2](https://github.com/gsoosk/MIPS-SingleCycle/blob/master/img/2.png)
 
 ### Shift Instructions
-![img3]()
+![img3](https://github.com/gsoosk/MIPS-SingleCycle/blob/master/img/3.png)
 
 | Instruction Operation    |              | fn |
 |--------------------------|--------------|----|
@@ -29,14 +29,14 @@ This is a Single Cycle MIPS implementation
 | ROR                      | Rotate right | 11 |
 
 ### Memory Instructions 
-![img4]()
-| Instruction Operation fn |              | fn|
+![img4](https://github.com/gsoosk/MIPS-SingleCycle/blob/master/img/4.png)
+| Instruction Operation    |              | fn|
 |--------------------------|--------------|---|
 | LDM                      | Load memory  | 0 |
 | STM                      | Store memory | 1 |
 
 ### Condition Jump Instructions
-![img5]()
+![img5](https://github.com/gsoosk/MIPS-SingleCycle/blob/master/img/5.png)
 | Instruction Operation    |                     | fn |
 |--------------------------|---------------------|----|
 | BZ                       | Branch if zero      | 0  |
@@ -45,6 +45,6 @@ This is a Single Cycle MIPS implementation
 | BNC                      | Branch if not carry | 11 |
 
 ## Simple Jump Instructions
-![img6]()
+![img6](https://github.com/gsoosk/MIPS-SingleCycle/blob/master/img/6.png)
 ## Other Instructions 
-![img7]()
+![img7](https://github.com/gsoosk/MIPS-SingleCycle/blob/master/img/7.png)

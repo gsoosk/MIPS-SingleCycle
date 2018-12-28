@@ -30,6 +30,8 @@ This is a Single Cycle MIPS implementation
 
 ### Memory Instructions 
 ![img4](https://github.com/gsoosk/MIPS-SingleCycle/blob/master/img/4.png)
+
+
 | Instruction Operation    |              | fn|
 |--------------------------|--------------|---|
 | LDM                      | Load memory  | 0 |
@@ -37,6 +39,8 @@ This is a Single Cycle MIPS implementation
 
 ### Condition Jump Instructions
 ![img5](https://github.com/gsoosk/MIPS-SingleCycle/blob/master/img/5.png)
+
+
 | Instruction Operation    |                     | fn |
 |--------------------------|---------------------|----|
 | BZ                       | Branch if zero      | 0  |
